@@ -1,4 +1,4 @@
-# Face-Expression-Recognition-using-Deep-Learning
+# Facial-Emotion-Recognition-using-Deep-Learning 
 This repository implements a deep convolutional neural network (CNN) for facial expression recognition using the FER2013 dataset. The model classifies seven emotions: angry, disgust, fear, happy, neutral, sad, and surprise.Dataset E-link: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset.
 
 # Requirements
@@ -14,14 +14,13 @@ This repository implements a deep convolutional neural network (CNN) for facial 
 1. Clone the repo:
 	```bash
 		git clone https://github.com/your-username/Face-Expression-Recognition.git
-		cd Face-Expression-Recognition
+		cd Facial-Emotion-Recognition
 	
 2. Install dependencies:
 	```bash
 		pip install -r requirements.txt
 3. Place FER2013 dataset in dataset/.
-	```bash
-		Download haarcascade_frontalface_default.xml to project root.
+4. Download haarcascade_frontalface_default.xml to project root using https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml this link.
 
 # Model
 
