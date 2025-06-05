@@ -1,0 +1,8 @@
+# requirements.txt
+tensorflow==2.12.0
+numpy==1.23.5
+opencv-contrib-python==4.7.0.68
+matplotlib==3.7.0
+pandas==1.5.3
+seaborn
+scikit-learn
