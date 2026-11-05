@@ -44,7 +44,7 @@ This repository implements a deep convolutional neural network (CNN) for facial 
 # Results
 1. Test Accuracy: 64.96%
 
-2. Balanced Accuracy: 0.6515%
+2. Balanced Accuracy: 65.15%
 
 3. See confusion-matrix.png .
 
