@@ -32,7 +32,7 @@ This repository implements a deep convolutional neural network (CNN) for facial 
 
 1. main.py: Webcam emotion detection.
 
-2. train_model.py: Model training/evaluation.
+2. facial_emotion_recognition.py: Model training/evaluation.
 
 3. requirements.txt: Dependencies.
 
